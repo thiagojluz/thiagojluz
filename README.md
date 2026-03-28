@@ -10,7 +10,7 @@ Doutor em Energias pela Universidade de Coimbra com Pós-Doutorado em Sistemas d
 * **Sistemas Embarcados:** Domínio de **Linguagem C** (Firmware), **ESP32** e **FreeRTOS**.
 * **Simulação:** Domínio intermediário em **MATLAB**.
 
-## ⚡ Domínio de Domínio (Sistemas de Energia)
+## ⚡ Expertise no Setor Elétrico (Power Systems & Smart Grids)
 * **Smart Grids & Redes:** Experiência em redes de transmissão, distribuição e sistemas inteligentes.
 * **Otimização:** Especialista em modelos multiobjetivo, técnicas de Decomposição de Benders e planejamento de longo prazo.
 * **Renováveis:** Planejamento de sistemas 100% renováveis, armazenamento de energia e geração distribuída.
