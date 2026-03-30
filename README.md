@@ -21,4 +21,4 @@ Sólida trajetória na redação de documentação técnica e produção cientí
 * **~400 Citações (índice h5)**, demonstrando rigor metodológico e autoridade técnica.
 
 ---
-[LinkedIn](https://www.linkedin.com/in/thiago-josé-da-luz-ba2ba3123/) | [Lattes](http://lattes.cnpq.br/0146629186169847)
+[LinkedIn](https://www.linkedin.com/in/thiago-josé-da-luz-ba2ba3123/) | [ORCID](https://orcid.org/0000-0002-6018-9429) | [Lattes](http://lattes.cnpq.br/0146629186169847) 
