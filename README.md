@@ -87,6 +87,4 @@ O portfólio reflete uma abordagem **end-to-end**, do **nível físico e embarca
 
 🔗 **Links Profissionais**
 
-[LinkedIn](https://www.linkedin.com/in/thiago-josé-da-luz-ba2ba3123/) |  
-[ORCID](https://orcid.org/0000-0002-6018-9429) |  
-[Lattes](http://lattes.cnpq.br/0146629186169847)
+[LinkedIn](https://www.linkedin.com/in/thiago-josé-da-luz-ba2ba3123/) | [ORCID](https://orcid.org/0000-0002-6018-9429) | [Lattes](http://lattes.cnpq.br/0146629186169847)
